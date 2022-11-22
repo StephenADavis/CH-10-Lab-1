@@ -248,7 +248,7 @@ footer a {
     display: block;
   }
 
-  .mobile {
+  .mobile, .mobile-nav {
     display: none;
   }
 
