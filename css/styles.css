@@ -327,6 +327,7 @@ footer a {
   nav li a:hover {
   color: #373684;
   background-color: #e5e9fc;
+  transform: scale(1.2);
   }
 
   .grid {
